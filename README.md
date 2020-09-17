@@ -13,6 +13,8 @@ ONLINECOURSE is an udemy-like online course platform built using microservices a
 
 This service is used to store users who are logged in or registered.
 
+This service is built using ExpressJS Framework.
+
 ## Another Services
 
 | Api Gateway | Media Service | Course Service | Payment Service |
